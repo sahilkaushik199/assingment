@@ -1,0 +1,6 @@
+GitHub Repository: Ensure your assignment solution is stored in a folder within your GitHub repository.
+GitHub Pages: Set up GitHub Pages for your repository. Go to your repository settings, navigate to the "Pages" section, and select the branch and folder containing your solution.
+URL Formation: Your URL should follow this format: http://yourGitHubId.github.io/repository-name/module5-solution.
+Replace "yourGitHubId" with your GitHub username, "repository-name" with the name of your repository, and "module5-solution" with the name of the folder containing your assignment solution.
+
+Testing: Before submitting, ensure that the URL you've generated correctly displays your solution webpage by opening it in your web browser.
