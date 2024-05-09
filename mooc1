@@ -1,0 +1,5 @@
+Create a GitHub repository: If you haven't already, create a repository on GitHub where you'll host your solution code.
+Create a GitHub Pages site: Set up GitHub Pages for your repository. You can do this by going to your repository's settings, scrolling down to the GitHub Pages section, and selecting a source branch (typically main or master). GitHub will then provide you with a URL where your site will be hosted.
+Structure your repository: Ensure that your solution files are organized in a folder within your repository. For example, if your assignment is named "module2-solution", place all related files in a folder named "module2-solution".
+Verify your solution: Before submitting, make sure to test the provided GitHub Pages URL to ensure that it correctly displays your solution webpage. You can do this by opening the URL in your web browser.
+Submit the URL: Once you've verified that the URL is correct and your solution is displaying as expected, you can submit it for your assignment.
