@@ -1,0 +1,6 @@
+GitHub Repository: Ensure your assignment solution is in a folder within your GitHub repository.
+GitHub Pages: Enable GitHub Pages for your repository. In your repository settings, go to the "Pages" section, and select the branch and folder containing your solution.
+URL Formation: Your URL should follow this pattern: http://yourGitHubId.github.io/repository-name/module4-solution.
+Replace "yourGitHubId" with your GitHub username and "repository-name" with the name of your repository. If your solution is in a folder named "module4-solution" within your repository, the URL should point to it.
+
+Testing: Before submitting, ensure that the URL you created displays your solution webpage correctly by opening it in your web browser.
